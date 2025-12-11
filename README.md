@@ -1,4 +1,7 @@
-# 💫 About Me:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 Hi, I'm Shivam 👋<br>I'm a aspiring Web Developer and Software Developer who enjoys creating clean, efficient, and user-friendly applications. I love building projects that solve real problems, exploring new technologies, and constantly improving my skills.<br><br>Currently, I'm focused on strengthening my web development skills, building real-world projects, and growing as a software engineer.
 
 
