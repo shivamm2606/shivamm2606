@@ -23,7 +23,6 @@ Currently focused on sharpening my development skills, building real-world proje
 
 <p align="center">
   <a href="www.linkedin.com/in/shivam-gupta26"><img alt="Linkedin" title="Shivam Gupta Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/shivamm2606"><img alt="Github" title="Shivam Gupta Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="shivamm.2606@gmail.com"><img alt="Gmail" title="Shivam Gupta Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </p>
