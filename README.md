@@ -2,11 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Building+real+products+from+scratch" alt="Typing SVG" />
   </a>
 </p>
 
 ---
+
+🎓 *Computer Science Engineering Undergraduate** | 💻 *Aspiring Software Engineer & Full-Stack Developer**
 
 I'm a CS undergraduate passionate about building full-stack web applications and turning ideas into real, scalable products. Currently focused on sharpening my skills, shipping projects, and growing as a software engineer.
 
@@ -87,5 +89,4 @@ I'm a CS undergraduate passionate about building full-stack web applications and
   &nbsp;
   <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+  <a href="/cdn-cgi/l/email-protection#bfc6d0cacd91dad2ded6d3ffd8d2ded6d391dcd0d2"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-ba
