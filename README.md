@@ -10,7 +10,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 
-🎓 Computer Science Engineering Undergraduate | 💻 Aspiring Software Engineer & Full-Stack Developer
+💻 Aspiring Software Engineer | Full-Stack Developer
 
 I'm a CS undergraduate passionate about building full-stack web applications and turning ideas into real, scalable products. Currently focused on sharpening my skills, shipping projects, and growing as a software engineer.
 
