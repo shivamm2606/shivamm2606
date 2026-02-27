@@ -10,15 +10,17 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 
-💻 Aspiring Software Engineer | Full-Stack Developer
+🎓 Computer Science Engineering Undergraduate 💻 Aspiring Software Engineer | Full-Stack Developer
 
-I'm a CS undergraduate passionate about building full-stack web applications and turning ideas into real, scalable products. Currently focused on sharpening my skills, shipping projects, and growing as a software engineer.
+I’m passionate about building full-stack web applications and turning ideas into scalable, real-world solutions.
 
-- ⚛️ Building modern apps with **React**, **Node.js** & **Express**
-- 🔗 Designing and integrating **RESTful APIs**
-- 🧠 Strong grasp of **application architecture** & **state management**
-- 📚 Currently learning: **TypeScript · Docker · System Design**
-- 🚀 Looking for: **Internships & Entry-Level SWE roles**
+⚛️ Building modern web apps with React, JavaScript, Node.js & Express
+
+🔗 Designing and integrating RESTful APIs
+
+🧠 Strong understanding of application architecture & state management
+
+Currently focused on sharpening my development skills, building real-world projects, and growing as a software engineer — 🚀
 
 ---
 
