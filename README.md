@@ -63,10 +63,9 @@ Currently focused on sharpening my development skills, building real-world proje
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="www.linkedin.com/in/shivam-gupta26"><img alt="Linkedin" title="Shivam Gupta Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  &nbsp;
+  <a href="shivamm.2606@gmail.com"><img alt="Gmail" title="Shivam Gupta Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    &nbsp;
   <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  &nbsp;
-  <a href="/cdn-cgi/l/email-protection#bfc6d0cacd91dad2ded6d3ffd8d2ded6d391dcd0d2"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-ba
+</p>
