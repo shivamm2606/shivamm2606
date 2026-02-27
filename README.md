@@ -8,7 +8,7 @@
 
 ---
 
-🎓 *Computer Science Engineering Undergraduate** | 💻 *Aspiring Software Engineer & Full-Stack Developer**
+🎓 Computer Science Engineering Undergraduate | 💻 Aspiring Software Engineer & Full-Stack Developer
 
 I'm a CS undergraduate passionate about building full-stack web applications and turning ideas into real, scalable products. Currently focused on sharpening my skills, shipping projects, and growing as a software engineer.
 
