@@ -8,7 +8,7 @@
 
 ---
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 
 🎓 Computer Science Engineering Undergraduate | 💻 Aspiring Software Engineer & Full-Stack Developer
 
