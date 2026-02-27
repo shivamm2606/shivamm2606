@@ -2,14 +2,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=100&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Express" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamm2606&style=flat-square&color=6366f1&label=profile+views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-✓-22c55e?style=flat-square" />
 </p>
 
 ---
