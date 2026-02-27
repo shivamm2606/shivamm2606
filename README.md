@@ -47,30 +47,6 @@ I'm a CS undergraduate passionate about building full-stack web applications and
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **Project One** | Full-stack app with auth & REST API | React · Node · MongoDB | [Live](#) · [Code](#) |
-| **Project Two** | Backend API with JWT & CRUD | Express · MySQL | [Live](#) · [Code](#) |
-| **Project Three** | Responsive SPA with API integration | React · TailwindCSS | [Live](#) · [Code](#) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1" />
-</p>
-
----
-
 ## ⚡ Fun Facts
 
 - 🐛 I debug with `console.log` — no shame
