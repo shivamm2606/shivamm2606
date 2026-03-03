@@ -53,10 +53,10 @@ Currently focused on sharpening my development skills, building real-world proje
 
 ## ⚡ Fun Facts
 
-- 🐛 I debug with `console.log` — no shame
-- ☕ Coffee + lo-fi = peak productivity
-- 🌱 Best ideas come from problems I've faced myself
-- 🎯 Goal: Build something 10,000 people actually use
+- 🐛 I debug with `console.log` simple, effective
+- 🗂️ I have 23 open tabs and yes… every single one is “important”
+- 🌱 I build solutions to problems that annoys me first
+- 🎯 Goal: Build something people actually use
 
 ---
 
