@@ -20,7 +20,7 @@ I’m passionate about building full-stack web applications and turning ideas in
 
 🧠 Strong understanding of application architecture & state management
 
-Currently focused on sharpening my development skills, building real-world projects, and growing as a software engineer — 🚀
+Currently focused on sharpening my development skills, building real-world projects, and growing as a software engineer - 🚀
 
 ---
 
