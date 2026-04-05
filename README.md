@@ -17,7 +17,7 @@ Full-stack by practice, backend by preference.
 
 > 🔍 I care about what's under the surface - how auth actually works, API design, why things break and how to stop them. That's the part I find interesting.
 
-> 🏋🏼 Outside of code, I train at the gym most days. Consistency there taught me more about long-term progress than any course did.
+> 🏋🏼 Outside of code, I train at the gym most days.
 
 > 🚀 Currently building real projects, sharpening problem-solving, and getting ready for placements.
 
@@ -29,19 +29,21 @@ Full-stack by practice, backend by preference.
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/><br/><sub>React</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50"/><br/><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50"/><br/><sub>TypeScript</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50"/><br/><sub>Tailwind</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50"/><br/><sub>Node.js</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="50"/><br/><sub>Express</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50"/><br/><sub>MongoDB</sub></td>
   </tr>
-  <tr><td colspan="6" height="12"></td></tr>
+  <tr><td colspan="7" height="12"></td></tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/><br/><sub>MySQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/><br/><sub>PostgreSQL</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"/><br/><sub>C++</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="50"/><br/><sub>C</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/><br/><sub>Git</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/><br/><sub>GitHub</sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=npm&theme=dark" width="50"/><br/><sub>npm</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/><br/><sub>Linux</sub></td>
   </tr>
 </table>
 
@@ -59,11 +61,9 @@ Full-stack by practice, backend by preference.
 
 ---
 
-## ⚡ A Few Things
-
-- 🐛 I debug with `console.log`
-- 🛠️ I build solutions to problems that annoy me first
-- 🎯 Goal: build something people actually use
+🛠️ I build solutions to things that annoy me first
+<br/>
+🎯 Goal: build something people actually use
 
 ---
 
