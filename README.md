@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./darkConsole.svg" width="100%" alt="Shivam's Profile Banner" />
+<img src="./console.svg" width="100%" alt="Shivam's Profile Banner" />
 </div>
 
 ---
