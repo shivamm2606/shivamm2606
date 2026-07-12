@@ -1,11 +1,10 @@
 <div align="center">
-<h1>Hi, I'm Shivam 👋</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=5CBBFF&center=true&vCenter=true&width=580&height=48&lines=Full-Stack+Developer+%7C+MERN+Stack;console.log(%22still+debugging%22)%3B" alt="Typing SVG" />
+<img src="./darkConsole.svg" width="100%" alt="Shivam's Profile Banner" />
 </div>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=40px></picture> About Me
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=40px></picture> About Me
 
 🎓 Computer Science Engineering Undergraduate
 
@@ -20,32 +19,6 @@ Full-stack by practice, backend by preference.
 > 🏋🏼 Outside of code, I train at the gym most days.
 > 
 > 🚀 Building real projects, sharpening problem-solving, and getting ready for placements.
-
----
-
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/><br/><sub>React</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50"/><br/><sub>JavaScript</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50"/><br/><sub>TypeScript</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50"/><br/><sub>Tailwind</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50"/><br/><sub>Node.js</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="50"/><br/><sub>Express</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50"/><br/><sub>MongoDB</sub></td>
-  </tr>
-  <tr><td colspan="7" height="12"></td></tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/><br/><sub>MySQL</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50"/><br/><sub>PostgreSQL</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50"/><br/><sub>C++</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/><br/><sub>Git</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/><br/><sub>GitHub</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=npm&theme=dark" width="50"/><br/><sub>npm</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/><br/><sub>Linux</sub></td>
-  </tr>
-</table>
 
 ---
 
@@ -65,17 +38,7 @@ Full-stack by practice, backend by preference.
 
 ---
 
-## 💭 Philosophy
-
-💭 I care more about systems than features
-<br/>
-🔍 I don’t just build features - I try to understand why they work.
-<br/>
-🎯 Goal: build something people actually use
-
----
-
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shivamm2606"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/></a>
