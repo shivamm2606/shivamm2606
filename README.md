@@ -8,7 +8,7 @@
 
 Full-stack developer with a backend-first mindset.
 
-I enjoy understanding how systems work beneath the surface—authentication, APIs, databases, and building production-ready applications.
+I enjoy understanding how systems work beneath the surface - authentication, APIs, databases, and building production-ready applications.
 
 > 🔍 I care about what's under the surface - how auth actually works, API design, why things break and how to stop them. That's the part I find interesting.
 > 
